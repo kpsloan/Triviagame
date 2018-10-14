@@ -1,0 +1,61 @@
+body {
+    background-image: url("../images/red.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.jumbotron {
+    height: 475px;
+    width: 90%;
+    background-color: rgba(0, 0, 0, .0);
+    vertical-align: 5%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin: 5% 5%;
+    color: orange;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px orangered;
+    padding: 0px;
+  }
+
+  #button {
+      margin-top: 120px;
+  }
+
+  .timer {
+      color: antiquewhite;
+      font-size: 28px;
+  }
+
+  #question {
+      font-size: 32px;
+      margin: 50px 0px;
+  }
+
+  #response {
+      padding-top: 60px;
+  }
+
+  #x {
+      width: 200px;
+      height: 250px;
+      padding-top: 60px;
+  }
+
+  #check {
+      width: 200px;
+      height: 200px;
+      padding-top: 60px;
+  }
+
+
+  h1 {
+      color: orange;
+      text-align: center;
+      padding-top: 40px;
+      text-shadow: 2px 2px 4px orangered;
+      font-size: 48px;
+  }
